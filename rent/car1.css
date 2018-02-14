@@ -1,0 +1,135 @@
+body, html {
+    height: 100%;
+	background-color:#4B0082;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    
+}
+
+li {
+    float: left;
+    color: white;
+
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+
+li a:hover {
+    background-color: #111;
+}
+
+ul {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+
+.active {
+    background-color: #4CAF50;
+}	
+
+.bg { 
+    
+    
+    
+    height: 100%; 
+
+    
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#title1
+{
+margin-top:0px;
+color:#fff;
+padding-right:15px;
+}
+#title2
+{
+color:#fff;	
+margin-top:0px;		
+padding-right:25px;
+}
+#figo
+{
+	color:#fff; 
+	font-size:30px;
+	margin-top:100px;
+	padding-left:0px;
+	margin-left:-100px;
+}
+#figo1
+{
+	
+	font-size:25px;
+	margin-top:200px;
+	padding-left:10px;
+	padding-top:20px;
+}
+#img1
+{
+	font-size:30px;
+	margin-top:100px;
+	padding-left:0px;
+	margin-left:-200px;
+}
+#swift
+{
+	font-size:30px;
+	margin-top:-4px;
+	padding-left:px;
+	margin-left:-140px;
+}
+#swift1
+{
+	font-size:25px;
+	margin-top:37px;
+	padding-left:35px;
+	padding-top:20px;
+}
+#img2
+{
+	margin-top:0px;
+	padding-left:0px;
+	margin-left:110px;
+}
+#scorpio
+{
+	color:white;
+	font-size:30px;
+	margin-top:20px;
+	padding-left:0px;
+	margin-left:-170px;
+}
+#scorpio1
+{
+	font-size:25px;
+	margin-top:110px;
+	padding-top:0px;
+	margin-left:10px;
+}
+#img3
+{
+	margin-top:0px;
+	padding-left:0px;
+	margin-left:110px;
+}
+	
+h4
+{
+	color:white;
+}
